@@ -53,9 +53,6 @@ I'm a passionate Full-Stack Software Engineer with experience in building reliab
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TigerTimofey&repo=racetrack-info-screens" />
 </a>
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dkartik123&show_icons=true&theme=radical)
 
 ## 🌐 Connect With Me
 - 💼 Open for exciting collaboration opportunities
